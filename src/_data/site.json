@@ -1,0 +1,11 @@
+{
+  "showThemeCredit": true,
+  "name": "Injurious Blog",
+  "shortDesc": "A personal blog.",
+  "url": "https://injurious-blog.netlify.app/",
+  "authorEmail": "anilkaundal@gmail.com",
+  "authorName": "Anil Kaundal",
+  "enableThirdPartyComments": false,
+  "maxPostsPerPage": 5,
+  "faviconPath": "/images/favicon.png"
+}
